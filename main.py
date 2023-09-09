@@ -16,7 +16,7 @@ feeDay = feeMonth / 29
 print('\n')
 
 initialMoney = float(input('Quantidade de dinheiro investido: R$').replace('.', '').replace(',', ''))
-quantityMounth = int(input('Quantidade de meses para simular: '))
+quantityMonth = int(input('Quantidade de meses para simular: '))
 
 firstAvenue = initialMoney * feeDay
 
@@ -33,7 +33,7 @@ allAvenuesDaily = [
   },
 ]
 
-for x in range(2, 22 * quantityMounth, 1):
+for x in range(2, 22 * quantityMonth, 1):
   avenue = lastMoneySavings * feeDay
 
   lastMoneySavings = lastMoneySavings + avenue 
