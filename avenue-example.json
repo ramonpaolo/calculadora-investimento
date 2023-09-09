@@ -1,0 +1,2106 @@
+[
+  {
+    "avenue": "19,04",
+    "day": 1,
+    "total_avenue": "50.019,04",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,04",
+    "day": 2,
+    "total_avenue": "50.038,08",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,05",
+    "day": 3,
+    "total_avenue": "50.057,13",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,06",
+    "day": 4,
+    "total_avenue": "50.076,19",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,07",
+    "day": 5,
+    "total_avenue": "50.095,26",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,07",
+    "day": 6,
+    "total_avenue": "50.114,33",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,08",
+    "day": 7,
+    "total_avenue": "50.133,41",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,09",
+    "day": 8,
+    "total_avenue": "50.152,50",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,10",
+    "day": 9,
+    "total_avenue": "50.171,60",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,10",
+    "day": 10,
+    "total_avenue": "50.190,70",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,11",
+    "day": 11,
+    "total_avenue": "50.209,81",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,12",
+    "day": 12,
+    "total_avenue": "50.228,93",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,12",
+    "day": 13,
+    "total_avenue": "50.248,05",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,13",
+    "day": 14,
+    "total_avenue": "50.267,18",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,14",
+    "day": 15,
+    "total_avenue": "50.286,32",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,15",
+    "day": 16,
+    "total_avenue": "50.305,47",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,15",
+    "day": 17,
+    "total_avenue": "50.324,62",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,16",
+    "day": 18,
+    "total_avenue": "50.343,78",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,17",
+    "day": 19,
+    "total_avenue": "50.362,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,18",
+    "day": 20,
+    "total_avenue": "50.382,13",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,18",
+    "day": 21,
+    "total_avenue": "50.401,31",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 1
+  },
+  {
+    "avenue": "19,19",
+    "day": 22,
+    "total_avenue": "50.420,50",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,20",
+    "day": 23,
+    "total_avenue": "50.439,70",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,20",
+    "day": 24,
+    "total_avenue": "50.458,90",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,21",
+    "day": 25,
+    "total_avenue": "50.478,11",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,22",
+    "day": 26,
+    "total_avenue": "50.497,33",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,23",
+    "day": 27,
+    "total_avenue": "50.516,56",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,23",
+    "day": 28,
+    "total_avenue": "50.535,79",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,24",
+    "day": 29,
+    "total_avenue": "50.555,04",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,25",
+    "day": 30,
+    "total_avenue": "50.574,28",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,26",
+    "day": 31,
+    "total_avenue": "50.593,54",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,26",
+    "day": 32,
+    "total_avenue": "50.612,80",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,27",
+    "day": 33,
+    "total_avenue": "50.632,08",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,28",
+    "day": 34,
+    "total_avenue": "50.651,35",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,29",
+    "day": 35,
+    "total_avenue": "50.670,64",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,29",
+    "day": 36,
+    "total_avenue": "50.689,93",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,30",
+    "day": 37,
+    "total_avenue": "50.709,23",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,31",
+    "day": 38,
+    "total_avenue": "50.728,54",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,31",
+    "day": 39,
+    "total_avenue": "50.747,85",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,32",
+    "day": 40,
+    "total_avenue": "50.767,18",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,33",
+    "day": 41,
+    "total_avenue": "50.786,50",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,34",
+    "day": 42,
+    "total_avenue": "50.805,84",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,34",
+    "day": 43,
+    "total_avenue": "50.825,19",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 2
+  },
+  {
+    "avenue": "19,35",
+    "day": 44,
+    "total_avenue": "50.844,54",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,36",
+    "day": 45,
+    "total_avenue": "50.863,90",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,37",
+    "day": 46,
+    "total_avenue": "50.883,26",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,37",
+    "day": 47,
+    "total_avenue": "50.902,64",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,38",
+    "day": 48,
+    "total_avenue": "50.922,02",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,39",
+    "day": 49,
+    "total_avenue": "50.941,41",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,40",
+    "day": 50,
+    "total_avenue": "50.960,80",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,40",
+    "day": 51,
+    "total_avenue": "50.980,20",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,41",
+    "day": 52,
+    "total_avenue": "50.999,62",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,42",
+    "day": 53,
+    "total_avenue": "51.019,03",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,43",
+    "day": 54,
+    "total_avenue": "51.038,46",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,43",
+    "day": 55,
+    "total_avenue": "51.057,89",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,44",
+    "day": 56,
+    "total_avenue": "51.077,33",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,45",
+    "day": 57,
+    "total_avenue": "51.096,78",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,45",
+    "day": 58,
+    "total_avenue": "51.116,23",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,46",
+    "day": 59,
+    "total_avenue": "51.135,70",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,47",
+    "day": 60,
+    "total_avenue": "51.155,17",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,48",
+    "day": 61,
+    "total_avenue": "51.174,64",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,48",
+    "day": 62,
+    "total_avenue": "51.194,13",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,49",
+    "day": 63,
+    "total_avenue": "51.213,62",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,50",
+    "day": 64,
+    "total_avenue": "51.233,12",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,51",
+    "day": 65,
+    "total_avenue": "51.252,63",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 3
+  },
+  {
+    "avenue": "19,51",
+    "day": 66,
+    "total_avenue": "51.272,14",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,52",
+    "day": 67,
+    "total_avenue": "51.291,66",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,53",
+    "day": 68,
+    "total_avenue": "51.311,19",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,54",
+    "day": 69,
+    "total_avenue": "51.330,73",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,54",
+    "day": 70,
+    "total_avenue": "51.350,27",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,55",
+    "day": 71,
+    "total_avenue": "51.369,82",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,56",
+    "day": 72,
+    "total_avenue": "51.389,38",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,57",
+    "day": 73,
+    "total_avenue": "51.408,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,57",
+    "day": 74,
+    "total_avenue": "51.428,52",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,58",
+    "day": 75,
+    "total_avenue": "51.448,10",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,59",
+    "day": 76,
+    "total_avenue": "51.467,69",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,60",
+    "day": 77,
+    "total_avenue": "51.487,29",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,60",
+    "day": 78,
+    "total_avenue": "51.506,89",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,61",
+    "day": 79,
+    "total_avenue": "51.526,50",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,62",
+    "day": 80,
+    "total_avenue": "51.546,12",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,63",
+    "day": 81,
+    "total_avenue": "51.565,75",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,63",
+    "day": 82,
+    "total_avenue": "51.585,38",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,64",
+    "day": 83,
+    "total_avenue": "51.605,02",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,65",
+    "day": 84,
+    "total_avenue": "51.624,67",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,66",
+    "day": 85,
+    "total_avenue": "51.644,33",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,66",
+    "day": 86,
+    "total_avenue": "51.663,99",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,67",
+    "day": 87,
+    "total_avenue": "51.683,66",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 4
+  },
+  {
+    "avenue": "19,68",
+    "day": 88,
+    "total_avenue": "51.703,34",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,69",
+    "day": 89,
+    "total_avenue": "51.723,03",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,69",
+    "day": 90,
+    "total_avenue": "51.742,72",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,70",
+    "day": 91,
+    "total_avenue": "51.762,42",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,71",
+    "day": 92,
+    "total_avenue": "51.782,13",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,72",
+    "day": 93,
+    "total_avenue": "51.801,84",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,72",
+    "day": 94,
+    "total_avenue": "51.821,57",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,73",
+    "day": 95,
+    "total_avenue": "51.841,30",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,74",
+    "day": 96,
+    "total_avenue": "51.861,04",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,75",
+    "day": 97,
+    "total_avenue": "51.880,78",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,75",
+    "day": 98,
+    "total_avenue": "51.900,54",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,76",
+    "day": 99,
+    "total_avenue": "51.920,30",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,77",
+    "day": 100,
+    "total_avenue": "51.940,07",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,78",
+    "day": 101,
+    "total_avenue": "51.959,84",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,78",
+    "day": 102,
+    "total_avenue": "51.979,63",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,79",
+    "day": 103,
+    "total_avenue": "51.999,42",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,80",
+    "day": 104,
+    "total_avenue": "52.019,22",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,81",
+    "day": 105,
+    "total_avenue": "52.039,02",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,81",
+    "day": 106,
+    "total_avenue": "52.058,83",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,82",
+    "day": 107,
+    "total_avenue": "52.078,66",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,83",
+    "day": 108,
+    "total_avenue": "52.098,48",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,84",
+    "day": 109,
+    "total_avenue": "52.118,32",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 5
+  },
+  {
+    "avenue": "19,84",
+    "day": 110,
+    "total_avenue": "52.138,17",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,85",
+    "day": 111,
+    "total_avenue": "52.158,02",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,86",
+    "day": 112,
+    "total_avenue": "52.177,88",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,87",
+    "day": 113,
+    "total_avenue": "52.197,74",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,87",
+    "day": 114,
+    "total_avenue": "52.217,62",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,88",
+    "day": 115,
+    "total_avenue": "52.237,50",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,89",
+    "day": 116,
+    "total_avenue": "52.257,39",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,90",
+    "day": 117,
+    "total_avenue": "52.277,28",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,90",
+    "day": 118,
+    "total_avenue": "52.297,19",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,91",
+    "day": 119,
+    "total_avenue": "52.317,10",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,92",
+    "day": 120,
+    "total_avenue": "52.337,02",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,93",
+    "day": 121,
+    "total_avenue": "52.356,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,93",
+    "day": 122,
+    "total_avenue": "52.376,88",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,94",
+    "day": 123,
+    "total_avenue": "52.396,82",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,95",
+    "day": 124,
+    "total_avenue": "52.416,77",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,96",
+    "day": 125,
+    "total_avenue": "52.436,73",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,97",
+    "day": 126,
+    "total_avenue": "52.456,70",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,97",
+    "day": 127,
+    "total_avenue": "52.476,67",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,98",
+    "day": 128,
+    "total_avenue": "52.496,65",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "19,99",
+    "day": 129,
+    "total_avenue": "52.516,64",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "20,00",
+    "day": 130,
+    "total_avenue": "52.536,63",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "20,00",
+    "day": 131,
+    "total_avenue": "52.556,64",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 6
+  },
+  {
+    "avenue": "20,01",
+    "day": 132,
+    "total_avenue": "52.576,65",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,02",
+    "day": 133,
+    "total_avenue": "52.596,67",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,03",
+    "day": 134,
+    "total_avenue": "52.616,69",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,03",
+    "day": 135,
+    "total_avenue": "52.636,73",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,04",
+    "day": 136,
+    "total_avenue": "52.656,77",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,05",
+    "day": 137,
+    "total_avenue": "52.676,82",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,06",
+    "day": 138,
+    "total_avenue": "52.696,87",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,06",
+    "day": 139,
+    "total_avenue": "52.716,94",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,07",
+    "day": 140,
+    "total_avenue": "52.737,01",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,08",
+    "day": 141,
+    "total_avenue": "52.757,09",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,09",
+    "day": 142,
+    "total_avenue": "52.777,18",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,09",
+    "day": 143,
+    "total_avenue": "52.797,27",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,10",
+    "day": 144,
+    "total_avenue": "52.817,37",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,11",
+    "day": 145,
+    "total_avenue": "52.837,48",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,12",
+    "day": 146,
+    "total_avenue": "52.857,60",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,13",
+    "day": 147,
+    "total_avenue": "52.877,73",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,13",
+    "day": 148,
+    "total_avenue": "52.897,86",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,14",
+    "day": 149,
+    "total_avenue": "52.918,00",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,15",
+    "day": 150,
+    "total_avenue": "52.938,15",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,16",
+    "day": 151,
+    "total_avenue": "52.958,30",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,16",
+    "day": 152,
+    "total_avenue": "52.978,47",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,17",
+    "day": 153,
+    "total_avenue": "52.998,64",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 7
+  },
+  {
+    "avenue": "20,18",
+    "day": 154,
+    "total_avenue": "53.018,82",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,19",
+    "day": 155,
+    "total_avenue": "53.039,00",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,19",
+    "day": 156,
+    "total_avenue": "53.059,20",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,20",
+    "day": 157,
+    "total_avenue": "53.079,40",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,21",
+    "day": 158,
+    "total_avenue": "53.099,61",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,22",
+    "day": 159,
+    "total_avenue": "53.119,83",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,23",
+    "day": 160,
+    "total_avenue": "53.140,05",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,23",
+    "day": 161,
+    "total_avenue": "53.160,29",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,24",
+    "day": 162,
+    "total_avenue": "53.180,53",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,25",
+    "day": 163,
+    "total_avenue": "53.200,78",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,26",
+    "day": 164,
+    "total_avenue": "53.221,03",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,26",
+    "day": 165,
+    "total_avenue": "53.241,30",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,27",
+    "day": 166,
+    "total_avenue": "53.261,57",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,28",
+    "day": 167,
+    "total_avenue": "53.281,85",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,29",
+    "day": 168,
+    "total_avenue": "53.302,13",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,29",
+    "day": 169,
+    "total_avenue": "53.322,43",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,30",
+    "day": 170,
+    "total_avenue": "53.342,73",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,31",
+    "day": 171,
+    "total_avenue": "53.363,04",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,32",
+    "day": 172,
+    "total_avenue": "53.383,36",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,33",
+    "day": 173,
+    "total_avenue": "53.403,68",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,33",
+    "day": 174,
+    "total_avenue": "53.424,02",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,34",
+    "day": 175,
+    "total_avenue": "53.444,36",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 8
+  },
+  {
+    "avenue": "20,35",
+    "day": 176,
+    "total_avenue": "53.464,71",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,36",
+    "day": 177,
+    "total_avenue": "53.485,06",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,36",
+    "day": 178,
+    "total_avenue": "53.505,43",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,37",
+    "day": 179,
+    "total_avenue": "53.525,80",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,38",
+    "day": 180,
+    "total_avenue": "53.546,18",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,39",
+    "day": 181,
+    "total_avenue": "53.566,57",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,40",
+    "day": 182,
+    "total_avenue": "53.586,96",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,40",
+    "day": 183,
+    "total_avenue": "53.607,37",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,41",
+    "day": 184,
+    "total_avenue": "53.627,78",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,42",
+    "day": 185,
+    "total_avenue": "53.648,19",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,43",
+    "day": 186,
+    "total_avenue": "53.668,62",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,43",
+    "day": 187,
+    "total_avenue": "53.689,06",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,44",
+    "day": 188,
+    "total_avenue": "53.709,50",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,45",
+    "day": 189,
+    "total_avenue": "53.729,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,46",
+    "day": 190,
+    "total_avenue": "53.750,40",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,47",
+    "day": 191,
+    "total_avenue": "53.770,87",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,47",
+    "day": 192,
+    "total_avenue": "53.791,34",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,48",
+    "day": 193,
+    "total_avenue": "53.811,82",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,49",
+    "day": 194,
+    "total_avenue": "53.832,31",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,50",
+    "day": 195,
+    "total_avenue": "53.852,81",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,50",
+    "day": 196,
+    "total_avenue": "53.873,31",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,51",
+    "day": 197,
+    "total_avenue": "53.893,83",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 9
+  },
+  {
+    "avenue": "20,52",
+    "day": 198,
+    "total_avenue": "53.914,35",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,53",
+    "day": 199,
+    "total_avenue": "53.934,87",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,54",
+    "day": 200,
+    "total_avenue": "53.955,41",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,54",
+    "day": 201,
+    "total_avenue": "53.975,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,55",
+    "day": 202,
+    "total_avenue": "53.996,50",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,56",
+    "day": 203,
+    "total_avenue": "54.017,06",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,57",
+    "day": 204,
+    "total_avenue": "54.037,63",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,57",
+    "day": 205,
+    "total_avenue": "54.058,20",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,58",
+    "day": 206,
+    "total_avenue": "54.078,79",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,59",
+    "day": 207,
+    "total_avenue": "54.099,38",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,60",
+    "day": 208,
+    "total_avenue": "54.119,97",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,61",
+    "day": 209,
+    "total_avenue": "54.140,58",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,61",
+    "day": 210,
+    "total_avenue": "54.161,19",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,62",
+    "day": 211,
+    "total_avenue": "54.181,82",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,63",
+    "day": 212,
+    "total_avenue": "54.202,45",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,64",
+    "day": 213,
+    "total_avenue": "54.223,08",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,65",
+    "day": 214,
+    "total_avenue": "54.243,73",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,65",
+    "day": 215,
+    "total_avenue": "54.264,38",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,66",
+    "day": 216,
+    "total_avenue": "54.285,04",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,67",
+    "day": 217,
+    "total_avenue": "54.305,71",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,68",
+    "day": 218,
+    "total_avenue": "54.326,39",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,68",
+    "day": 219,
+    "total_avenue": "54.347,07",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 10
+  },
+  {
+    "avenue": "20,69",
+    "day": 220,
+    "total_avenue": "54.367,77",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,70",
+    "day": 221,
+    "total_avenue": "54.388,47",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,71",
+    "day": 222,
+    "total_avenue": "54.409,17",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,72",
+    "day": 223,
+    "total_avenue": "54.429,89",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,72",
+    "day": 224,
+    "total_avenue": "54.450,61",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,73",
+    "day": 225,
+    "total_avenue": "54.471,35",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,74",
+    "day": 226,
+    "total_avenue": "54.492,09",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,75",
+    "day": 227,
+    "total_avenue": "54.512,83",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,76",
+    "day": 228,
+    "total_avenue": "54.533,59",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,76",
+    "day": 229,
+    "total_avenue": "54.554,35",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,77",
+    "day": 230,
+    "total_avenue": "54.575,12",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,78",
+    "day": 231,
+    "total_avenue": "54.595,90",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,79",
+    "day": 232,
+    "total_avenue": "54.616,69",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,80",
+    "day": 233,
+    "total_avenue": "54.637,49",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,80",
+    "day": 234,
+    "total_avenue": "54.658,29",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,81",
+    "day": 235,
+    "total_avenue": "54.679,10",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,82",
+    "day": 236,
+    "total_avenue": "54.699,92",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,83",
+    "day": 237,
+    "total_avenue": "54.720,75",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,83",
+    "day": 238,
+    "total_avenue": "54.741,58",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,84",
+    "day": 239,
+    "total_avenue": "54.762,42",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,85",
+    "day": 240,
+    "total_avenue": "54.783,27",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,86",
+    "day": 241,
+    "total_avenue": "54.804,13",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 11
+  },
+  {
+    "avenue": "20,87",
+    "day": 242,
+    "total_avenue": "54.825,00",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,87",
+    "day": 243,
+    "total_avenue": "54.845,87",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,88",
+    "day": 244,
+    "total_avenue": "54.866,76",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,89",
+    "day": 245,
+    "total_avenue": "54.887,65",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,90",
+    "day": 246,
+    "total_avenue": "54.908,54",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,91",
+    "day": 247,
+    "total_avenue": "54.929,45",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,91",
+    "day": 248,
+    "total_avenue": "54.950,36",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,92",
+    "day": 249,
+    "total_avenue": "54.971,29",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,93",
+    "day": 250,
+    "total_avenue": "54.992,22",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,94",
+    "day": 251,
+    "total_avenue": "55.013,16",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,95",
+    "day": 252,
+    "total_avenue": "55.034,10",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,95",
+    "day": 253,
+    "total_avenue": "55.055,06",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,96",
+    "day": 254,
+    "total_avenue": "55.076,02",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,97",
+    "day": 255,
+    "total_avenue": "55.096,99",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,98",
+    "day": 256,
+    "total_avenue": "55.117,97",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,99",
+    "day": 257,
+    "total_avenue": "55.138,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "20,99",
+    "day": 258,
+    "total_avenue": "55.159,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "21,00",
+    "day": 259,
+    "total_avenue": "55.180,95",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "21,01",
+    "day": 260,
+    "total_avenue": "55.201,96",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "21,02",
+    "day": 261,
+    "total_avenue": "55.222,98",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "21,03",
+    "day": 262,
+    "total_avenue": "55.244,00",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  },
+  {
+    "avenue": "21,03",
+    "day": 263,
+    "total_avenue": "55.265,04",
+    "currency": "BRL",
+    "symbol": "R$",
+    "month": 12
+  }
+]
