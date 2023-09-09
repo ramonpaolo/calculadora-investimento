@@ -1,8 +1,14 @@
-import json, locale
+import json, locale, sys
 
 locale.setlocale(locale.LC_MONETARY, 'pt_BR.UTF-8')
 
-feeYear = 13.25 / 100
+feeDefault = 13.25
+
+if sys.argv.__len__() == 2:
+  feeDefault = float(sys.argv[1])
+
+
+feeYear = feeDefault / 100
 feeMonth = feeYear / 12
 
 feeDay = feeMonth / 29
