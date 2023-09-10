@@ -15,7 +15,7 @@ feeDay = feeMonth / 29
 
 print('\n')
 
-initialMoney = float(input('Quantidade de dinheiro investido: R$').replace('.', '').replace(',', ''))
+initialMoney = float(input('Quantidade de dinheiro investido: R$').replace('.', '').replace(',', '.'))
 quantityMonth = int(input('Quantidade de meses para simular: '))
 
 firstAvenue = initialMoney * feeDay
